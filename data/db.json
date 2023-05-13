@@ -1,0 +1,26 @@
+{
+  "applicants": [
+    {
+      "name": "Anyanwu Ada Jane",
+      "age": "10",
+      "state of origin": "imo",
+      "year of Birth": "2015",
+      "class": "jss1",
+      "learners ability": " gifted",
+      "health condition": "none",
+      "Why  did you choose ELiTE": "cause its the best",
+      "id": 1
+    },
+    {
+      "name": "anyanwu",
+      "age": "5",
+      "stateOfOrigin": "imo",
+      "yearOfBirth": "10",
+      "level": "",
+      "learnersAbility": "",
+      "healthCondition": "",
+      "elite": "jhdskdkjsd",
+      "id": 2
+    }
+  ]
+}

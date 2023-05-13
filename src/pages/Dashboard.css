@@ -1,0 +1,14 @@
+.image {
+  height: 200px;
+  margin: 0 auto;
+  width: 400px;
+}
+
+.dashboard h3 {
+  color: #daa520;
+}
+
+.dash-1 {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}

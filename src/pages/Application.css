@@ -1,0 +1,46 @@
+.application {
+  text-align: center;
+  margin: 0 auto;
+  padding-left: 70px;
+}
+.application label {
+  text-align: left;
+  display: block;
+  color: #daa520;
+}
+.application h2 {
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.application input,
+.application textarea,
+.application select {
+  width: 70%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.application button {
+  background: #000;
+  color: #fff;
+  border: 0;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 40%;
+}
+@media (max-width: 700px) {
+  .application {
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 10px;
+  }
+  .application h2 {
+    font-size: 15px;
+    color: #fff;
+    margin-bottom: 30px;
+  }
+}
